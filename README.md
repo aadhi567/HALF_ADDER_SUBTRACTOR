@@ -1,5 +1,7 @@
 # HALF_ADDER_SUBTRACTOR
 
+Developed by: AADHITHAN B,REGISTER NO: 212224040001
+
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -65,7 +67,7 @@ assign borrow= ( ~a & b);
 endmodule
 ~~~
 
-Developed by: AADHITHAN B,REGISTER NO: 212224040001
+
 
 **RTL Schematic**
 
